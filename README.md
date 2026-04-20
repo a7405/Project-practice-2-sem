@@ -7,3 +7,5 @@ https://drive.google.com/drive/folders/1I87VIblPell9lCiA2zGojDCT59usloeI?usp=sha
 https://docs.google.com/document/d/1fSDjhtVK9XJjrn6KRp2xJmfj6q-VrvjiaYNtuirFabo/edit?usp=sharing
 ## Питч презентация:
 https://docs.google.com/presentation/d/1u7GUqYsTzJnwT5Vu6pi-_ZpsXPmMFqb7vWoBuITuzZI/edit?usp=sharing
+## UML диаграмма
+https://drive.google.com/file/d/1DdtVaeBOXSFn0x3rqWp4DGk73zAIkzcv/view?usp=drive_link
